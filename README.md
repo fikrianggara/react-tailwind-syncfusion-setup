@@ -1,5 +1,5 @@
 # Reusable react, tailwind, and syncfusion project setup
-This repository intend to give template for using react, tailwind and synfusion together.
+This repository intend to give template for using react, tailwind and syncfusion together.
 we use react for general frontend library, tailwind for css styling, and synfusion for UI component such as graph, date picker, metric, and manymore
 
 In this project setup, we use :
